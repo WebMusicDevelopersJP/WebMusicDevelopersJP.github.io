@@ -10,6 +10,7 @@ body {
   width:800px;
 }
 #header{
+  font-family: 'Poiret One', cursive;
   margin:0 auto;
   text-align: center;
   background:#78a0b8;

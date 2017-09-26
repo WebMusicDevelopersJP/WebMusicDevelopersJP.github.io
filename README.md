@@ -1,4 +1,5 @@
 <link href="styles.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
 
 <div id="header">
 <img src="images/midiappy.png" style="background:rgba(0,0,0,0)"/>
