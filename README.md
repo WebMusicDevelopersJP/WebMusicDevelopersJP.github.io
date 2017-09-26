@@ -35,3 +35,7 @@ Web Music Demo PartyはWeb Audio/MIDI関連のLTとラスボス（歴代ハッ�
 #### HTML5 Conference
 Web Music Developers JPブース出展  
 [http://events.html5j.org/conference/2017/9/](http://events.html5j.org/conference/2017/9/)
+
+-----
+[Repository of this page](https://github.com/WebMusicDevelopersJP/WebMusicDevelopersJP.github.io)  
+[Web Music Developers JP Front Page](https://webmusicdevelopersjp.github.io/)  
