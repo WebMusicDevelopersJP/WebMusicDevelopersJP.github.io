@@ -1,6 +1,9 @@
-![Midiappy](images/midiappy.png)
-# WebMusic Developers JP
-Web Music Developers JP front page
+<link href="styles.css" rel="stylesheet"></link>
+
+<div id="header">
+<img src="images/midiappy.png"/>
+<h1>Web Music Developers JP</h1>
+</div>
 
 ## Web Music Developers JP とは  
 Web Music Developers JP はブラウザ上で音楽制作する環境を開発する人のコミュニティです。
