@@ -1,4 +1,4 @@
-<link href="styles.css" rel="stylesheet"></link>
+<link href="styles.css" rel="stylesheet">
 
 <div id="header">
 <img src="images/midiappy.png"/>
