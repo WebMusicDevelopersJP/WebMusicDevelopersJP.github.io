@@ -1,7 +1,7 @@
 <link href="styles.css" rel="stylesheet">
 
 <div id="header">
-<img src="images/midiappy.png"/>
+<img src="images/midiappy.png" style="background:rgba(0,0,0,0)"/>
 <h1>Web Music Developers JP</h1>
 </div>
 
