@@ -37,5 +37,9 @@ Web Music Developers JPブース出展
 [http://events.html5j.org/conference/2017/9/](http://events.html5j.org/conference/2017/9/)
 
 -----
+#### Web Music Developers JP 代表
+[https://twitter.com/ryoyakawai](Ryoya KAWAI) / [https://plus.google.com/+agektmr](Eiji Kitamura)
+
+-----
 [Repository of this page](https://github.com/WebMusicDevelopersJP/WebMusicDevelopersJP.github.io)  
 [Web Music Developers JP Front Page](https://webmusicdevelopersjp.github.io/)  
