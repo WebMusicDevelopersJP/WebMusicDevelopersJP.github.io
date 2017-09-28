@@ -1,10 +1,3 @@
-<link href="styles.css" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
-
-<div id="header">
-<img src="images/midiappy.png" style="width:40%;background:rgba(0,0,0,0)"/>
-<h1 style="margin:0">Web Music Developers JP</h1>
-</div>
 
 ## Web Music Developers JP とは  
 Web Music Developers JP はブラウザ上で音楽制作する環境を開発する人のコミュニティです。
@@ -27,12 +20,12 @@ Google Groups : [https://groups.google.com/forum/#!forum/web-music-developers-jp
 [https://japan-android-group.connpass.com/event/60022/](https://japan-android-group.connpass.com/event/60022/)
 
 ### 2017/10/06(金)
-#### Web Music Demo Party #1
+#### Web Music Demo Party \#1
 Web Music Demo PartyはWeb Audio/MIDI関連のLTとラスボス（歴代ハッカソンの優秀者等）によるライブという形のMeetupです。  
 [https://connpass.com/event/65499/"](https://connpass.com/event/65499/)
 
 ### 2017/9/24/(日)
-#### HTML5 Conference
+#### HTML5 Conference 2017
 Web Music Developers JPブース出展  
 [http://events.html5j.org/conference/2017/9/](http://events.html5j.org/conference/2017/9/)
 
@@ -42,4 +35,4 @@ Web Music Developers JPブース出展
 
 -----
 [Repository of this page](https://github.com/WebMusicDevelopersJP/WebMusicDevelopersJP.github.io)  
-[Web Music Developers JP Front Page](https://webmusicdevelopersjp.github.io/)  
+[Web Music Developers JP Front Page](https://developers.webmusic.io/)  
