@@ -62,6 +62,10 @@ hr {
   background:#78a0b8;
   color:#fff;
 }
+#header a {
+  margin:0;
+  color:#fff;
+}
 #header img {
   width:40%;
 }
