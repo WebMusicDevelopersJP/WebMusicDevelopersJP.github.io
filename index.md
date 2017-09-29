@@ -35,4 +35,4 @@ Web Music Developers JPブース出展
 
 -----
 [Repository of this page](https://github.com/WebMusicDevelopersJP/WebMusicDevelopersJP.github.io)  
-[Web Music Developers JP Front Page](https://developers.webmusic.io/)  
+[Web Music Developers JP Front Page](https://developers.webmusic.io)  
