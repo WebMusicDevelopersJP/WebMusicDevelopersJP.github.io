@@ -31,7 +31,7 @@ Web Music Developers JPブース出展
 
 -----
 #### Web Music Developers JP 代表
-[Ryoya KAWAI](https://twitter.com/ryoyakawai) / [Eiji Kitamura](https://plus.google.com/+agektmr)
+[Ryoya KAWAI](https://twitter.com/ryoyakawai)
 
 -----
 [Repository of this page](https://github.com/WebMusicDevelopersJP/WebMusicDevelopersJP.github.io)  
