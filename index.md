@@ -15,8 +15,9 @@ Google Groups : [https://groups.google.com/forum/#!forum/web-music-developers-jp
 
 ### 2018/10/13(土)
 #### Android Bazaar and Conference 2018A in KAWAKASHI (ABC2018)
-[https://japan-android-group.connpass.com/event/91768/](https://japan-android-group.connpass.com/event/91768/)
 国内最大級の規模を誇るAndroidの18回目の祭典「Android Bazaar and Conference 2018 Autumn in KAWASAKI (ABC2018Autumn in KAWASAKI)」。Web Music Developers JP は「バザール(展示会場)」へのブース出展を行います。
+
+[https://japan-android-group.connpass.com/event/91768/](https://japan-android-group.connpass.com/event/91768/)
 
 ### 2017/10/14(土)
 #### Android Bazaar and Conference 2017 in KAWASAKI (ABC2017)
