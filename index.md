@@ -13,6 +13,12 @@ Google Groups : [https://groups.google.com/forum/#!forum/web-music-developers-jp
 ## イベント
 不定期的にハッカソン等のイベントの開催、展示会等への出展を行っています。  
 
+### 2018/11/25(日)
+#### HTML5 Conference 2018
+「Web技術者の祭典」として、Webに関する最新技術のトレンドを集め、また皆さんと活発に交流しながら、何よりも盛り上がれるイベントです。Web Music Developers JP も展示を行います。
+
+[https://events.html5j.org/conference/2018/11/](https://events.html5j.org/conference/2018/11/)
+
 ### 2018/10/13(土)
 #### Android Bazaar and Conference 2018A in KAWAKASHI (ABC2018)
 国内最大級の規模を誇るAndroidの18回目の祭典「Android Bazaar and Conference 2018 Autumn in KAWASAKI (ABC2018Autumn in KAWASAKI)」。Web Music Developers JP は「バザール(展示会場)」へのブース出展を行います。
