@@ -13,12 +13,17 @@ Google Groups : [https://groups.google.com/forum/#!forum/web-music-developers-jp
 ## イベント
 不定期的にハッカソン等のイベントの開催、展示会等への出展を行っています。  
 
+### 2020/10/3(土)、2020/10/4(日)
+#### Maker Faire Tokyo 2020
+「メイカー」が集い、展示とデモンストレーションを行うイベントです。コロナの影響のため今回は、入場日時指定制のチケットのみの販売となっています。Web Music Developers JP も展示を行います。
+
+[https://makezine.jp/event/mft2020/](https://makezine.jp/event/mft2020/)
+
 ### 2018/12/21(金)
 #### Web Music Developers Meetup #3を開催します！
 LTを中心のMeetupを開催します。奮ってご参加ください！
 
 [登録ページ：Web Music Developers Meetup #3](https://connpass.com/event/112300/)
-
 
 ### 2018/11/25(日)
 #### HTML5 Conference 2018
