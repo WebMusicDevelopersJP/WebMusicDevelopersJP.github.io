@@ -13,6 +13,11 @@ Google Groups : [https://groups.google.com/forum/#!forum/web-music-developers-jp
 ## イベント
 不定期的にハッカソン等のイベントの開催、展示会等への出展を行っています。  
 
+### 2023/10/14(土)、2023/10/15(日)
+#### Maker Faire Tokyo 2023
+
+[https://makezine.jp/event/makers-mft2023/m0163/](https://makezine.jp/event/makers-mft2023/m0163/)
+
 ### 2020/10/3(土)、2020/10/4(日)
 #### Maker Faire Tokyo 2020
 「メイカー」が集い、展示とデモンストレーションを行うイベントです。コロナの影響のため今回は、入場日時指定制のチケットのみの販売となっています。Web Music Developers JP も展示を行います。
